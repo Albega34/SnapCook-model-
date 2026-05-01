@@ -2,7 +2,7 @@ flask
 flask-cors
 requests
 Pillow
-numpy
+numpy<2
 tflite-runtime
 gunicorn
 
