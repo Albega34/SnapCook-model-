@@ -3,9 +3,6 @@ flask-cors
 requests
 Pillow
 numpy
-# For high-performance and lightweight execution in production:
-# tflite-runtime
-# Or if you are running locally / with CUDA:
-tensorflow
+tflite-runtime
 gunicorn
 
